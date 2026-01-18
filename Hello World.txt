@@ -1,1 +1,2 @@
 Hello World!
+It's modified in 'feature1' branch
